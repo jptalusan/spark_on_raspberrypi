@@ -34,3 +34,6 @@ hdfs dfsadmin -safemode leave
 hdfs dfs -mkdir -p /user/hduser/ARBench  
 hdfs dfs -copyFromLocal X_train.txt y_train.txt ARBench  
 hdfs dfs -copyFromLocal X_test.txt y_test.txt ARBench  
+
+Extra references:
+https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
