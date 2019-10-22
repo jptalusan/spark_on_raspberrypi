@@ -40,7 +40,7 @@ pandocfilters==1.4.2
 parso==0.2.1
 pexpect==4.6.0
 pickleshare==0.7.4
-Pillow==4.0.0
+Pillow==6.2.0
 pmlb==0.3
 prompt-toolkit==1.0.15
 psutil==5.4.3
